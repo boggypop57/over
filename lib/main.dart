@@ -87,4 +87,6 @@ class MainApp extends StatelessWidget {
     );
   }
 }
-*/
+*/// That's end
+
+//I must figure out how to write text in command line
